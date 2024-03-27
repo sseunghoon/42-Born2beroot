@@ -7,7 +7,7 @@
 ### 기간
 2022-07-14 ~ 2022-07-22 (3번째 과제)
 
-## 과제 주요 해석
+## 과제 주요 요구사항 해석
 - Create Virtual Machine
   - 가상화 개념을 아는가?
 - Graphical Interface is forbidden.
