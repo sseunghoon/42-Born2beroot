@@ -4,6 +4,9 @@
 ***가상화 개념***을 학습하고 ***리눅스 시스템 관리***를 실습합니다 <br><br>
 <img width="757" alt="image" src="https://github.com/sseunghoon/42-Born2beroot/assets/45088611/00f10717-6eac-44e6-9178-8eb64ca3175f">
 
+### 기간
+2022-07-14 ~ 2022-07-22 (3번째 과제)
+
 ## 과제 주요 해석
 - Create Virtual Machine
   - 가상화 개념을 아는가?
@@ -61,3 +64,5 @@
 - 모니터링 스크립트 자동화
 <img width="702" alt="image" src="https://github.com/sseunghoon/42-Born2beroot/assets/45088611/e8883594-a04d-4d49-909b-2e5bbc0142b1">
 
+### 노션
+https://seunghso.notion.site/Born2beroot-5d774f9356504f7ca51a62aa8baa363c?pvs=4
