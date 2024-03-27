@@ -64,5 +64,5 @@
 - 모니터링 스크립트 자동화
 <img width="702" alt="image" src="https://github.com/sseunghoon/42-Born2beroot/assets/45088611/e8883594-a04d-4d49-909b-2e5bbc0142b1">
 
-### 노션
+### 명령어 세부 정리 (노션)
 https://seunghso.notion.site/Born2beroot-5d774f9356504f7ca51a62aa8baa363c?pvs=4
